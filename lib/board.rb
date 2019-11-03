@@ -20,4 +20,5 @@ board[8]="t"
 end
 
 x="helowwolt"
-x.chars
+
+board(x)
