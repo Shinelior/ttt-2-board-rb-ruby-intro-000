@@ -1,5 +1,5 @@
 # Define the variable board below.
-def board()
+def board
 
 
 
@@ -19,6 +19,6 @@ board[8]="t"
  return board
 end
 
-x="helowwolt"
+
 
 
