@@ -5,7 +5,8 @@ def board
 board=[" "," "," "," "," "," "," "," "," "]
 
 
-
+return board
+exit
 
 
 
