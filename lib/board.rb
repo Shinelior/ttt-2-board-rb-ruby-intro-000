@@ -16,7 +16,7 @@ board[5]="w"
 board[6]="o"
 board[7]="l"
 board[8]="t"
-
+ return board
 end
 
-
+x="heloww"
