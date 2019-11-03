@@ -19,4 +19,5 @@ board[8]="t"
  return board
 end
 
-x="heloww"
+x="helowwolt"
+x.chars
